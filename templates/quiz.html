@@ -2,7 +2,7 @@
 {% block title %}Quiz{% endblock %}
 {% block content %}
 <h2>SC DMV Quiz</h2>
-<form id="quiz-form" method="POST">
+<form method="POST">
     <input type="hidden" name="answers" value='{{ answers }}'>
     <ol>
     {% for q in quiz %}
@@ -20,22 +20,5 @@
     <button type="submit">Submit Answers</button>
 </form>
 <div id="result"></div>
-<script>
-    const form = document.getElementById('quiz-form');
-    form.addEventListener('submit', async (e) => {
-        e.preventDefault();
-        const answers = [];
-        const radios = form.querySelectorAll('input[type=radio]:checked');
-        for (const r of radios) { answers.push(r.value); }
-        const correct = {{ quiz|tojson }};
-        const correctLetters = correct.map(q => q.answer);
-        const res = await fetch('{{ url_for('quiz') }}', {
-            method: 'POST',
-            headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({answers, correct: correctLetters})
-        });
-        const data = await res.json();
-        document.getElementById('result').innerText = `You scored ${data.score}/${correctLetters.length}!`;
-    });
-</script>
+<button type="submit">Submit Answers</button>
 {% endblock %}
