@@ -1,4 +1,4 @@
-{% extends 'base.html' %}
+F{% extends 'base.html' %}
 {% block title %}Quiz{% endblock %}
 {% block content %}
 <h2>SC DMV Quiz</h2>
@@ -9,7 +9,7 @@
             <p>{{ q.question }}</p>
             {% for choice in q.choices %}
                 <label>
-                    <input type="radio" name="q{{ loop.parent.loop.index0 }}" value="{{ choice[0] }}"> {{ choice }}
+                    <input type="radio" name="q{{ loop.parent.index0 }}" value="{{ choice[0] }}"> {{ choice }}
                 </label><br>
             {% endfor %}
         </li>
