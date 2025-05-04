@@ -136,24 +136,27 @@ def quiz():
             ] * 10
         return render_template("quiz.html", quiz=qjson)
 
-# Stripe checkout (bare‑bones)
+# ---------- Stripe checkout (one‑time $30 purchase) ----------
 @app.route("/create‑checkout‑session", methods=["POST"])
 @login_required
 def create_checkout_session():
     YOUR_DOMAIN = request.host_url.rstrip("/")
+
     session = stripe.checkout.Session.create(
+        payment_method_types=["card"],
         line_items=[
             {
                 "price_data": {
                     "currency": "usd",
-                    "unit_amount": 3000,  # 3 000 cents = $30.00   CHANGED
+                    "unit_amount": 3000,  # 3 000 cents = $30.00
                     "product_data": {
-                        "name": "DMV Tutor – Lifetime Access"    # CHANGED
+                        "name": "DMV Tutor – Lifetime Access"
+                    },
                 },
                 "quantity": 1,
             }
         ],
-        mode="subscription",
+        mode="payment",
         success_url=f"{YOUR_DOMAIN}/dashboard?success=true",
         cancel_url=f"{YOUR_DOMAIN}/dashboard?canceled=true",
         metadata={"user_id": current_user.id}
