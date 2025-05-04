@@ -2,7 +2,8 @@
 {% block title %}Quiz{% endblock %}
 {% block content %}
 <h2>SC DMV Quiz</h2>
-<form id="quiz-form">
+<form id="quiz-form" method="POST">
+    <input type="hidden" name="answers" value='{{ answers }}'>
     <ol>
     {% for q in quiz %}
         <li>
