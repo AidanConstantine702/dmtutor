@@ -167,7 +167,7 @@ def webhook():
     sig_header = request.headers.get("stripe-signature")
     endpoint_secret = os.getenv("STRIPE_WEBHOOK_SECRET")
     try:
-        event = stripe.Webhook.construct_event(payload, sig_header, endpoint_secret)
+        event = checkout.session.completed_event(payload, sig_header, endpoint_secret)
     except Exception as e:
         return str(e), 400
     if event["type"] == "checkout.session.completed":
