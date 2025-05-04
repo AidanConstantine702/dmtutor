@@ -146,8 +146,9 @@ def create_checkout_session():
             {
                 "price_data": {
                     "currency": "usd",
-                    "unit_amount": 799,  # $7.99 monthly
-                    "product_data": {"name": "DMV Tutor Monthly Subscription"},
+                    "unit_amount": 3000,  # 3 000 cents = $30.00   CHANGED
+                    "product_data": {
+                        "name": "DMV Tutor – Lifetime Access"    # CHANGED
                 },
                 "quantity": 1,
             }
