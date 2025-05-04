@@ -144,7 +144,30 @@ def quiz():
         return render_template("quiz.html", quiz=qjson)
 
 # ---------- Stripe checkout (one‑time $30 purchase) ----------
-@app.route("/create‑checkout‑session", methods=["POST"])
+@app.route("/create_checkout_session", methods=["POST"])   # ← USE underscore, not fancy dash
+@login_required
+def create_checkout_session():
+    YOUR_DOMAIN = request.host_url.rstrip("/")
+
+    session = stripe.checkout.Session.create(
+        payment_method_types=["card"],
+        line_items=[
+            {
+                "price_data": {
+                    "currency": "usd",
+                    "unit_amount": 3000,  # $30.00  (3 000 cents)
+                    "product_data": {"name": "DMV Tutor – Lifetime Access"},
+                },
+                "quantity": 1,
+            }
+        ],
+        mode="payment",
+        success_url=f"{YOUR_DOMAIN}/dashboard?success=true",
+        cancel_url=f"{YOUR_DOMAIN}/dashboard?canceled=true",
+        metadata={"user_id": current_user.id},
+    )
+    return jsonify({"url": session.url})
+
 
 # ---------- Unlock via passcode ----------
 @app.route("/unlock-passcode", methods=["POST"])
@@ -158,9 +181,6 @@ def unlock_passcode():
     else:
         flash("❌  Invalid code. Please try again.", "error")
     return redirect(url_for("dashboard"))
-@login_required
-def create_checkout_session():
-    YOUR_DOMAIN = request.host_url.rstrip("/")
 
     session = stripe.checkout.Session.create(
         payment_method_types=["card"],
