@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<h2>Your Progress</h2>
+<button onclick="location.href='{{ url_for('quiz') }}'">Start Quiz</button>
+<h3>Past Results</h3>
+<ul>
+    {% for r in results %}
+        <li>Score: {{ r.score }}/{{ r.total }}</li>
+    {% else %}
+        <li>No quizzes yet.</li>
+    {% endfor %}
+</ul>
+{% if not current_user.is_active_subscriber %}
+    <form id="stripe-form" method="POST" action="{{ url_for('create_checkout_session') }}">
+        <button type="submit">Subscribe for $7.99/mo</button>
+    </form>
+    <script>
+        document.getElementById('stripe-form').addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const res = await fetch(e.target.action, {method: 'POST'});
+            const data = await res.json();
+            window.location = data.url;
+        });
+    </script>
+{% endif %}
+{% endblock %}

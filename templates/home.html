@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Welcome - DMV Tutor{% endblock %}
+{% block content %}
+<h1>SC DMV Permit Tutor</h1>
+<p>A smarter way to pass your permit test. Practice quizzes, flash cards, and progress tracking—all powered by AI.</p>
+{% if current_user.is_authenticated %}
+    <a class="btn" href="{{ url_for('dashboard') }}">Go to Dashboard</a>
+{% else %}
+    <a class="btn" href="{{ url_for('register') }}">Get Started</a>
+{% endif %}
+{% endblock %}
