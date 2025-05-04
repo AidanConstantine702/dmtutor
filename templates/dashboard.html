@@ -12,10 +12,21 @@
     {% endfor %}
 </ul>
 {% if not current_user.is_active_subscriber %}
+    <!-- One‑time purchase -->
     <form id="stripe-form" method="POST" action="{{ url_for('create_checkout_session') }}">
         <button type="submit">Get lifetime access for $30!</button>
     </form>
+
+    <!-- OR unlock with passcode -->
+    <form method="POST" action="{{ url_for('unlock_passcode') }}" style="margin-top:15px;">
+        <label>Have an access code?
+            <input type="text" name="code" placeholder="Enter code" required>
+        </label>
+        <button type="submit">Unlock</button>
+    </form>
+
     <script>
+        /* keeps the $30 button behavior the same */
         document.getElementById('stripe-form').addEventListener('submit', async (e) => {
             e.preventDefault();
             const res = await fetch(e.target.action, {method: 'POST'});
