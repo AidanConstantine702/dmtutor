@@ -1,0 +1,2252 @@
+[
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What does a flashing RED traffic light require you to do?",
+    "choices": [
+      "Stop completely, then proceed when safe",
+      "Slow down and proceed with caution",
+      "Maintain speed and proceed"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "A yellow dashed line on your side of the roadway means ____.",
+    "choices": [
+      "passing is prohibited on both sides",
+      "passing is permitted on both sides",
+      "passing is permitted on your side"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "At a four\u2011way stop, you arrive at the same time as the driver on your right. Who goes first?",
+    "choices": [
+      "You go first",
+      "Driver on your right",
+      "Driver on your left"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "Regulatory signs are typically what color?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "White"
+    ],
+    "answer": 2
+  },
+  {
+    "question": "You must stop for a stopped school bus when:",
+    "choices": [
+      "You are behind the bus on any highway",
+      "You are on the opposite side of a four\u2011lane highway",
+      "You see no children"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What BAC is required to suspend drivers under 21 in SC?",
+    "choices": [
+      "0.02%",
+      "0.05%",
+      "0.08%"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "Before entering a roundabout you should:",
+    "choices": [
+      "Slow down and yield to traffic in the circle",
+      "Speed up to merge quickly",
+      "Stop completely every time"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "The primary purpose of a diamond\u2011shaped yellow sign is to:",
+    "choices": [
+      "Regulate speed",
+      "Warn of hazards ahead",
+      "Give route information"
+    ],
+    "answer": 1
+  },
+  {
+    "question": "When approaching railroad tracks with no signals, you should:",
+    "choices": [
+      "Look both ways and cross quickly",
+      "Cross slowly without looking",
+      "Stop on the tracks to check traffic"
+    ],
+    "answer": 0
+  },
+  {
+    "question": "What lane position is reserved for left turns from either direction?",
+    "choices": [
+      "Center shared lane",
+      "Rightmost lane",
+      "Shoulder"
+    ],
+    "answer": 0
+  }
+]
