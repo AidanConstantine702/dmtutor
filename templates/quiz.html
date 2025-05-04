@@ -8,6 +8,7 @@
     {% for q in quiz %}
         <li>
             <p>{{ q.question }}</p>
+            {% set q_index = loop.index0 %}
             {% for choice in q.choices %}
                 <label>
                   <input type="radio" name="q{{ q_index }}" value="{{ choice[0] }}"> {{ choice }}
