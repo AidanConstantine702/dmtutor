@@ -8,6 +8,9 @@ from dotenv import load_dotenv
 # Third‑party APIs
 import openai, stripe
 
+# ------------------ FREE PASSCODE ------------------
+PASSCODE = "DMTUTOR070207"
+
 load_dotenv()  # .env file
 
 app = Flask(__name__)
@@ -142,6 +145,19 @@ def quiz():
 
 # ---------- Stripe checkout (one‑time $30 purchase) ----------
 @app.route("/create‑checkout‑session", methods=["POST"])
+
+# ---------- Unlock via passcode ----------
+@app.route("/unlock-passcode", methods=["POST"])
+@login_required
+def unlock_passcode():
+    code = request.form.get("code", "").strip()
+    if code == PASSCODE:
+        current_user.is_active_subscriber = True
+        db.session.commit()
+        flash("✅  Access unlocked! Enjoy DMV Tutor.", "success")
+    else:
+        flash("❌  Invalid code. Please try again.", "error")
+    return redirect(url_for("dashboard"))
 @login_required
 def create_checkout_session():
     YOUR_DOMAIN = request.host_url.rstrip("/")
