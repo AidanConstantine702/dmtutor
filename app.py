@@ -4,6 +4,8 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, login_user, logout_user, login_required, UserMixin, current_user
 from werkzeug.security import generate_password_hash, check_password_hash
 from dotenv import load_dotenv
+import json, random, pathlib, itertools, sqlite3
+QUESTIONS = json.load(open(pathlib.Path(__file__).with_name("dmv_questions.json"), encoding="utf-8"))
 
 # Third‑party APIs
 import openai, stripe
@@ -136,12 +138,9 @@ def quiz():
             # Fallback hard‑coded sample
             qjson = [
                 {
-                    "question": "What is the legal BAC limit for drivers under 21 in South Carolina?",
-                    "choices": ["0.00%", "0.02%", "0.05%", "0.08%"],
-                    "answer": "B"
-                }
-            ] * 10
-        return render_template("quiz.html", quiz=qjson)
+                    quiz = random.sample(QUESTIONS, 10)
+answers = {i: q["answer"] for i, q in enumerate(quiz)}
+return render_template("quiz.html", quiz=quiz, answers=json.dumps(answers))
 
 # ---------- Stripe checkout (one‑time $30 purchase) ----------
 @app.route("/create_checkout_session", methods=["POST"])   # ← USE underscore, not fancy dash
