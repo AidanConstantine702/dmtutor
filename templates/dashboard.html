@@ -13,7 +13,7 @@
 </ul>
 {% if not current_user.is_active_subscriber %}
     <form id="stripe-form" method="POST" action="{{ url_for('create_checkout_session') }}">
-        <button type="submit">Subscribe for $7.99/mo</button>
+        <button type="submit">Get lifetime access for $30!</button>
     </form>
     <script>
         document.getElementById('stripe-form').addEventListener('submit', async (e) => {
