@@ -4,7 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, login_user, logout_user, login_required, UserMixin, current_user
 from werkzeug.security import generate_password_hash, check_password_hash
 from dotenv import load_dotenv
-import json, random, pathlib, itertools, sqlite3
+import json, random, pathlib
 QUESTIONS = json.load(open(pathlib.Path(__file__).with_name("dmv_questions.json"), encoding="utf-8"))
 
 # Third‑party APIs
@@ -103,44 +103,27 @@ def dashboard():
     results = QuizResult.query.filter_by(user_id=current_user.id).all()
     return render_template("dashboard.html", results=results)
 
-# Quiz
+# ---------- Take a quiz ----------
 @app.route("/quiz", methods=["GET", "POST"])
 @login_required
 def quiz():
-     # --- block unpaid users ---
+    # ----- paywall guard -----
     if not current_user.is_active_subscriber:
-        flash("🚀  Access locked! Buy lifetime access for $30 on your dashboard to unlock quizzes and flash cards.", "error")
+        flash("🚀  Access locked! Buy lifetime access for $30 or use your passcode.", "error")
         return redirect(url_for("dashboard"))
+
+    # ----- handle form submission -----
     if request.method == "POST":
-        # Front‑end sends user's answers; calculate score
-        submitted = request.json.get("answers", [])
-        correct = request.json.get("correct", [])
-        score = sum(1 for s, c in zip(submitted, correct) if s == c)
-        result = QuizResult(user_id=current_user.id, score=score, total=len(correct))
-        db.session.add(result)
-        db.session.commit()
-        return jsonify({"score": score})
-    else:
-        # Generate questions via OpenAI
-        prompt = (
-            "Generate 10 multiple‑choice questions (A, B, C, D) about the "
-            "South Carolina DMV permit test. Respond as strict JSON array with "
-            "objects: question, choices (list), answer (letter)."
-        )
-        try:
-            completion = openai.chat.completions.create(
-                model="gpt-3.5-turbo",
-                messages=[{"role": "user", "content": prompt}],
-                temperature=0.7
-            )
-            qjson = json.loads(completion.choices[0].message.content)
-        except Exception as e:
-            # Fallback hard‑coded sample
-            qjson = [
-                {
-                    quiz = random.sample(QUESTIONS, 10)
-answers = {i: q["answer"] for i, q in enumerate(quiz)}
-return render_template("quiz.html", quiz=quiz, answers=json.dumps(answers))
+        answers = json.loads(request.form["answers"])
+        score = sum(int(request.form.get(f"q{idx}", -1)) == ans for idx, ans in answers.items())
+        result = QuizResult(user_id=current_user.id, score=score, total=10)
+        db.session.add(result); db.session.commit()
+        return render_template("result.html", score=score, total=10)
+
+    # ----- GET: pick 10 fresh questions -----
+    quiz = random.sample(QUESTIONS, 10)
+    answers = {i: q["answer"] for i, q in enumerate(quiz)}
+    return render_template("quiz.html", quiz=quiz, answers=json.dumps(answers))
 
 # ---------- Stripe checkout (one‑time $30 purchase) ----------
 @app.route("/create_checkout_session", methods=["POST"])   # ← USE underscore, not fancy dash
