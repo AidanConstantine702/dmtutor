@@ -102,6 +102,10 @@ def dashboard():
 @app.route("/quiz", methods=["GET", "POST"])
 @login_required
 def quiz():
+     # --- block unpaid users ---
+    if not current_user.is_active_subscriber:
+        flash("🚀  Access locked! Buy lifetime access for $30 on your dashboard to unlock quizzes and flash cards.", "error")
+        return redirect(url_for("dashboard"))
     if request.method == "POST":
         # Front‑end sends user's answers; calculate score
         submitted = request.json.get("answers", [])
